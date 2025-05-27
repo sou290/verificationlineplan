@@ -138,3 +138,4 @@ if uploaded_file:
     else:
         st.success("✅ Aucune erreur détectée dans l’onglet 'Référentiel'.")
     st.markdown('</div>', unsafe_allow_html=True)
+
